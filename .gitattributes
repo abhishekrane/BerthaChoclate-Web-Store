@@ -1,5 +1,4 @@
 # Auto detect text files and perform LF normalization
 
-css/* linguist-vendored
-owl-carousel/* linguist-vendored
+
 *.css linguist-language=Java
