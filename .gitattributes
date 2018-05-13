@@ -1,6 +1,6 @@
 # Auto detect text files and perform LF normalization
 
 
-*.css linguist-language=Java
+
 *.jpg linguist-language=Java
 
